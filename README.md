@@ -1,4 +1,5 @@
-[<img src="https://img.youtube.com/vi/m-8oO-YVpOg/maxresdefault.jpg" width="50%">](https://youtu.be/m-8oO-YVpOg)
+[<img src="https://img.youtube.com/vi/m-8oO-YVpOg/maxresdefault.jpg" width="80%">](https://youtu.be/m-8oO-YVpOg)
+
 FluxBuilder is a drag-and-draw tool which helps users build and customize Flutter mobile app in an easy way. Instead of spending thousands of dollars in hiring a mobile developer team and months in waiting for the app to be delivered, users now could be able to build their own mobile app in just a few steps by, as mentioned above, drag and draw actions.
 
 
@@ -20,9 +21,9 @@ First release of Fluxbuilder is compatible with our existing product FluxStore P
 - Youtube: http://youtube.com/inspireui
 
 Fluxbuilder is available on following device:
-- MacOS: download from Appstore.
-- Window OS: download from Github
-- iOS: available via TestFlight (the latest build will be go live shortly), compatible with both mobile and tablet devices, require iOS above 8.x
-- Android: available from Google Play store, compatible with both mobile and tablet devices, require Android above 6.x
++ Window OS: select the link https://github.com/inspireui/fluxbuilder/releases/download/1.0.0/FluxBuilder.1.0.zip
++ macOS: download from Appstore https://apps.apple.com/vn/app/fluxbuilder/id1500753204?mt=12
++ ipad/iphone: download from Appstore https://apps.apple.com/tt/app/fluxbuilder-pro/id1503282735?ign-mpt=uo%3D2
++ tablet/android: download from Google Play https://play.google.com/store/apps/details?id=com.inspireui.fluxbuilderpro&hl=en
 
 Thank you for your interested in our products, let us know if you have any suggestion 😊
