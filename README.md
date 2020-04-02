@@ -1,3 +1,4 @@
+[<img src="https://img.youtube.com/vi/m-8oO-YVpOg/maxresdefault.jpg" width="50%">](https://youtu.be/m-8oO-YVpOg)
 FluxBuilder is a drag-and-draw tool which helps users build and customize Flutter mobile app in an easy way. Instead of spending thousands of dollars in hiring a mobile developer team and months in waiting for the app to be delivered, users now could be able to build their own mobile app in just a few steps by, as mentioned above, drag and draw actions.
 
 
