@@ -21,8 +21,8 @@ First release of Fluxbuilder is compatible with our existing product FluxStore P
 - Youtube: http://youtube.com/inspireui
 
 Fluxbuilder is available on following device:
-+ Window OS:  download [FluxBuilder.1.0.zip](https://github.com/inspireui/fluxbuilder/releases/download/1.0.0/FluxBuilder.1.0.zip) and [vc_redist.x64.exe](https://github.com/inspireui/fluxbuilder/releases/download/1.0.0/vc_redist.x64.exe)
-+ MacOS: download from [Appstore](https://apps.apple.com/vn/app/fluxbuilder/id1500753204?mt=12)
++ Window OS:  download [FluxBuilder_windowOS.zip](https://github.com/inspireui/fluxbuilder/releases/download/latest/FluxBuilder_windowOS.zip) 
++ MacOS: download from [Appstore](https://apps.apple.com/vn/app/fluxbuilder/id1500753204?mt=12) or  [FluxBuilder_macOS.zip](https://github.com/inspireui/fluxbuilder/releases/download/latest/FluxBuilder_macOS.zip) 
 + iOS (iPad/iPhone): download from [Appstore](https://apps.apple.com/tt/app/fluxbuilder-pro/id1503282735?ign-mpt=uo%3D2) 
 + Android OS: download from [Google Play](https://play.google.com/store/apps/details?id=com.inspireui.fluxbuilderpro&hl=en)
 
