@@ -24,6 +24,6 @@ Fluxbuilder is available on following device:
 + Window OS:  download [FluxBuilder_windowOS.zip](https://github.com/inspireui/fluxbuilder/releases/latest) 
 + MacOS: download from [Appstore](https://apps.apple.com/vn/app/fluxbuilder/id1500753204?mt=12) or [FluxBuilder_macOS.zip](https://github.com/inspireui/fluxbuilder/releases/latest) 
 + iOS (iPad/iPhone): download from [Appstore](https://apps.apple.com/tt/app/fluxbuilder-pro/id1503282735?ign-mpt=uo%3D2) 
-+ Android OS: download from [Google Play](https://play.google.com/store/apps/details?id=com.inspireui.fluxbuilderpro&hl=en)
++ Android OS: download from [Google Play](https://play.google.com/store/apps/details?id=com.inspireui.fluxbuilder.pro)
 
 Thank you for your interested in our products, let us know if you have any suggestion 😊
