@@ -1,5 +1,7 @@
 🎊 Latest version v1.2.3 
+
 👉 Changelog: https://inspireui.notion.site/FluxBuilder-f23547be583e47838da6eb3097944d3f
+
 
 [<img src="https://img.youtube.com/vi/m-8oO-YVpOg/maxresdefault.jpg" width="80%">](https://youtu.be/m-8oO-YVpOg)
 
