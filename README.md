@@ -1,4 +1,4 @@
-🎊 Latest version v1.2.3 
+🎊 Latest version v1.4.0
 
 👉 Changelog: https://inspireui.notion.site/FluxBuilder-f23547be583e47838da6eb3097944d3f
 
