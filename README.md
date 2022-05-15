@@ -1,9 +1,9 @@
-🎊 Latest version v1.4.0
+🎊 Latest version v1.5.0
 
-👉 Changelog: https://inspireui.notion.site/FluxBuilder-f23547be583e47838da6eb3097944d3f
+👉 Changelog: [https://inspireui.notion.site/ChangeLog-9931069f51c64e2993dcdc350f4bc332](https://inspireui.notion.site/ChangeLog-9931069f51c64e2993dcdc350f4bc332)
 
 
-[<img src="https://img.youtube.com/vi/m-8oO-YVpOg/maxresdefault.jpg" width="80%">](https://youtu.be/m-8oO-YVpOg)
+[<img src="https://trello.com/1/cards/6204d29b4258db28aca5bfb4/attachments/6280be540f8cbd8815527e82/previews/6280be550f8cbd8815527ebf/download/fluxbuilder2.png" width="80%">](https://youtu.be/m-8oO-YVpOg)
 
 FluxBuilder is a drag-and-draw tool which helps users build and customize Flutter mobile app in an easy way. Instead of spending thousands of dollars in hiring a mobile developer team and months in waiting for the app to be delivered, users now could be able to build their own mobile app in just a few steps by, as mentioned above, drag and draw actions.
 
