@@ -1,4 +1,4 @@
-🎊 Latest version v1.5.0
+🎊 Latest version v1.5.1
 
 👉 Changelog: [https://inspireui.notion.site/ChangeLog-9931069f51c64e2993dcdc350f4bc332](https://inspireui.notion.site/ChangeLog-9931069f51c64e2993dcdc350f4bc332)
 
