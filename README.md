@@ -1,11 +1,25 @@
-🎊 Latest version v1.5.1
+<p align="center">
+  <a href="https://fluxbuilder.com">
+    <img src="https://trello.com/1/cards/62f0db20e2f8498766ec649e/attachments/62f209cee7e27526229a44b3/previews/62f209cfe7e27526229a44de/download/fluxbuilder.png" height="96">
+    <h3 align="center">FluxBuilder</h3>
+  </a>
+</p>
 
-👉 Changelog: [https://inspireui.notion.site/ChangeLog-9931069f51c64e2993dcdc350f4bc332](https://inspireui.notion.site/ChangeLog-9931069f51c64e2993dcdc350f4bc332)
+<p align="center">
+  Integration. Design. Build.
+</p>
 
+<p align="center">
+  <a href="https://inspireui.notion.site/FluxBuilder-s-guide-a5164230ff444676b10b5cadc30302aa"><strong>Documentation</strong></a> ·
+  <a href="https://inspireui.notion.site/ChangeLog-9931069f51c64e2993dcdc350f4bc332"><strong>Changelog</strong></a> ·
+  <a href="https://github.com/inspireui/fluxbuilder/releases"><strong>Free Download</strong></a> ·
+  <a href="https://www.youtube.com/inspireui"><strong>Video</strong></a>
+</p>
+<br/>
 
-[<img src="https://trello.com/1/cards/6204d29b4258db28aca5bfb4/attachments/6280be540f8cbd8815527e82/previews/6280be550f8cbd8815527ebf/download/fluxbuilder2.png" width="80%">](https://youtu.be/m-8oO-YVpOg)
+## FluxBuilder
 
-FluxBuilder is a drag-and-draw tool which helps users build and customize Flutter mobile app in an easy way. Instead of spending thousands of dollars in hiring a mobile developer team and months in waiting for the app to be delivered, users now could be able to build their own mobile app in just a few steps by, as mentioned above, drag and draw actions.
+is a drag-and-draw tool which helps users build and customize Flutter mobile app in an easy way. Instead of spending thousands of dollars in hiring a mobile developer team and months in waiting for the app to be delivered, users now could be able to build their own mobile app in just a few steps by, as mentioned above, drag and draw actions.
 
 
 Moreover, users will get enthusiastic and excellent from InspireUI technical team when encountering any issues or requesting for customizations. Creating a mobile app for business has never been easier nowadays, hasn’t it?
@@ -19,8 +33,8 @@ FluxBuilder is very easy to use, but it comes with powerful features:
 5. Instant Delivery: When published, configurations will be pushed on Cloud Storage or your website hosting, without re-submitting to Google Play or App Store.
 
 
-FluxBuilder is Free Download
-----
+## Download
+
 First release of Fluxbuilder is compatible with our existing product FluxStore Pro, Fluxstore WooCommerce, FluxNews, Fluxstore Multi Vendor and FluxListing. For more information about the FluxBuilder please checkout following support links:
 - website: http://www.fluxbuilder.com
 - Youtube: http://youtube.com/inspireui
